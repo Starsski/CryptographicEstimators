@@ -16,6 +16,8 @@ from .UOVEstimator import *
 from .MAYOEstimator import *
 from .BIKEEstimator import *
 from .RankSDEstimator import *
+from .HQCEstimator import *
+from .RQCEstimator import *
 from .IFEstimator import *
 
 # WARNING:
